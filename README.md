@@ -148,6 +148,8 @@ https://ngrok.com/support
 
 Esto fue para p¡obtener tu token sigue el instructivo
 --------------------------------------------------------------------------------------------------------------------------------
+Para continuar en google drive crea una carpeta que diga
+CIENCIA DE DATOS y suelta el xls de salario minimo ahí
 -----------------------------------------------------------------------------------------------------
 
 Los espacios largos entre lineas de código es que son otros bloques
